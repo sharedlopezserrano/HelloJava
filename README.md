@@ -6,10 +6,6 @@ Futbol23 lets the player pick from multiple game modes, each one testing their s
 
 My goal with this project is to learn Java.
 
-{Add your demo video link below once it's recorded. Aim for a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 I developed the software using Visual Studio Code with the Extension Pack for Java, the Java Development Kit (JDK), and the integrated terminal for compiling and running the program. Git and GitHub were used for version control.
